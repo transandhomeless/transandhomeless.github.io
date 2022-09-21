@@ -40,7 +40,7 @@ p{
 }
 
 ul {
-    -moz-column-count: 4;
+    -moz-column-count:4;
     -moz-column-gap: 20px;
     -webkit-column-count: 4;
     -webkit-column-gap: 20px;
